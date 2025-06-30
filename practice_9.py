@@ -1,0 +1,11 @@
+a="Use your mobile open the iMobile app click on 'scan any QR' scan&pay instantly! T&Cs."
+print(a[46:48:1])
+print(a[16:20:1])
+print(a[33:36:1])
+print(a[47:51:1])
+print(a[73:76:1])
+print(a[43:45:1])
+print(a[5:8:2])
+print(a[62:64:1])
+print(a[80:83:2])
+print(a[69:74:1])
